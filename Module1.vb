@@ -1,4 +1,7 @@
-﻿Module Module1
+' Programmer: Cody Griffin
+' Date: 4/29/2017
+' Program: FizzBuzz in VB.NET
+Module Module1
 
     Sub Main()
         Dim i As Integer
