@@ -1,4 +1,9 @@
-﻿using System;
+/*
+Programmer: Cody Griffin
+Date: 4/29/2017
+Program: FizzBuzz in C#
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
